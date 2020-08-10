@@ -1,0 +1,24 @@
+h1, h2{
+    font-family: "roboto";
+}
+
+th{
+    height: 50px;
+    width: 250px;
+}
+
+td, th{
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    font-family: "Roboto";
+}
+
+#subject{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#subject:hover{
+    text-decoration: underline;
+}
